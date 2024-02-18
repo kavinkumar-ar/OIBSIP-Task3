@@ -17,6 +17,6 @@ In this internship I was offered three levels with having 3 tasks respectively. 
 ## Task3 - To-Do webapp
 
 A TO-DO webapp created under the virtual internship program of Oasis Infobyte. <br>
-[Click Here for Live Demo Page](https://devvsakib.github.io/oasis-infobyte/Task3)
+[Click Here for Live Demo Page](https://kavinkumar-ar.github.io/OIBSIP-Task3/)
 
 # Thank You! :)
